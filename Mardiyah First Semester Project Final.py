@@ -196,3 +196,4 @@ run_accounting_task()
 # 4.	Code Flexibility: Crafting a flexible code was challenging. Determining where to place ‘while’ loops, the number of loops I needed to include and if a loop is needed at all. Evaluating the necessity of the ‘try’ and ‘except’ blocks for each operation also posed some complexities.
 # 5.	 Performing operation on list especially based on the input function.
 
+#Can you see
